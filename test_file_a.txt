@@ -1,1 +1,1 @@
-Initial content of file A
+Modified content in new branch
